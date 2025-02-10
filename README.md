@@ -56,9 +56,6 @@ This project automates UI testing for the **SauceDemo** (https://www.saucedemo.c
 ├── test_cart_badge.py # Cart badge count validation │
 
 
-# Install Dependencies
- pip install -r requirements.txt
-
 # Install Playwright Browsers
 playwright install
 
